@@ -40,3 +40,10 @@ Desde el repo privado, con las placas nuevas ya generadas por
 
 Las placas se publican igual en redes, así que no hay nada acá que no vaya a
 estar a la vista de todas formas.
+
+## Política de privacidad
+
+`privacidad.html` es la política de privacidad que Google exige para pasar a
+producción la app de OAuth del tablero (`_publicar/youtube.py` y
+`_tablero/recolector.py`). Se sirve con GitHub Pages en
+<https://dfslezak.github.io/redes-portadas/privacidad.html>.
